@@ -14,18 +14,17 @@ aliases = ["/version/2/0"]
 
 ## ഞങ്ങളുടെ മാനദണ്ഡങ്ങൾ
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+ഞങ്ങളുടെ കമ്മ്യൂണിറ്റിയിക്ക് അനുകൂലമായ അന്തരീക്ഷത്തിലേക്ക് സംഭാവന ചെയ്യുന്ന സ്വഭാവത്തിന്റെ ഉദാഹരണങ്ങൾ:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* മറ്റുള്ളവരോട് സഹാനുഭൂതിയും ദയയും പ്രകടിപ്പിക്കുന്നു
+* വ്യത്യസ്ത അഭിപ്രായങ്ങൾ വീക്ഷണകോണുകൾ, അനുഭവങ്ങൾ എന്നിവയെ ബഹുമാനിക്കുക 
+* സൃഷ്ടിപരമായ ഫീഡ്‌ബാക്ക് നൽകുകയും മനോഹരമായി സ്വീകരിക്കുകയും ചെയ്യുന്നു
+* ഉത്തരവാദിത്തം ഏറ്റെടുക്കുകയും ഞങ്ങളുടെ തെറ്റുകൾ ബാധിച്ചവരോട് ക്ഷമ ചോദിക്കുകയും ചെയ്യുന്നു,
+  ഒപ്പം അനുഭവത്തിൽ നിന്ന് പഠിക്കുകയും ചെയ്യുന്നു
+* വ്യക്തികളെന്ന നിലയിൽ മാത്രമല്ല, ഏറ്റവും മികച്ച കാര്യങ്ങളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നു
+  മൊത്തത്തിലുള്ള കമ്മ്യൂണിറ്റി
 
-Examples of unacceptable behavior include:
+അസ്വീകാര്യമായ പെരുമാറ്റത്തിന്റെ ഉദാഹരണങ്ങളിൽ ഉൾപ്പെടുന്നു:
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
